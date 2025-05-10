@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://www.kdnuggets.com/wp-content/uploads/c_free_data_analyst_bootcamp_beginners_1.png" alt="Data Analyst" width="80%">
+  <img src="https://www.kdnuggets.com/wp-content/uploads/c_free_data_analyst_bootcamp_beginners_1.png" alt="Data Analyst" width="60%">
 </p>
 
 <h1 align="center">Hi there, I'm Okonkwo Uche 📊</h1>
